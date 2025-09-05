@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Sensitive files
+.env
+credentials.json
+token.json
+
+# IDE files
+.idea/
+.vscode/
